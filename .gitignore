@@ -1,0 +1,6 @@
+# Ignore Home Asistant Config, this needs to be backup mannually for security reasons
+/homeassist/config/
+ 
+
+# Ingore pi-hole config
+/pihole/etc*
